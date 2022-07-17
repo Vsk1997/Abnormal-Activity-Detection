@@ -16,7 +16,7 @@ The training videos capture normal situations. Testing videos include both norma
 
 ---
 
-In this project we had two datasets one which is available on internet i.e. CUHK campus avenue 
+In this project we have two datasets one which is available on internet i.e. CUHK campus avenue 
 dataset.
 
 The videos are captured in CUHK campus avenue with 15328 training frames.This dataset accompanies paper "Abnormal Event Detection at 150 FPS in Matlab, Cewu Lu, Jianping Shi, JiayaJia, International Conference on Computer Vision, (ICCV), 2013".
@@ -28,7 +28,7 @@ AvenueDataset : http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/datase
 
 ---
 
-For this project we have collected a variety of video footages from our college (M.B.M. Engineering College) cctv cameras which was over more than 15 GB (12-14 hours) of data. For this we have taken the data or videos from 3 cameras which are:
+For this project we have collected a variety of video footages from our college (M.B.M. Engineering College) cctv cameras which is over more than 15 GB (12-14 hours) of data. For this we have taken the data or videos from 3 cameras which are:
 - Camera near the computer center.
 - Camera near the physics department.
 - Camera in mechanical department.
