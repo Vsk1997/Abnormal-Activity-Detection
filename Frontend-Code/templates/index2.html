@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block content %}
+
+<div>
+    <form id="upload-file" method="post" enctype="multipart/form-data">
+        <label for="imageUpload" class="upload-label">
+            Choose...
+        </label>
+        <input type="file" name="file" id="imageUpload" accept=".mp4, .avi">
+    </form>
+    <div>
+        <button type="button" class="btn btn-primary btn-lg " id="btn-predict">Test</button>
+    </div>
+
+</div>
+
+{% endblock %}
