@@ -1,0 +1,48 @@
+
+input[type="file"] {
+    display: none;
+}
+
+h1{
+    font-family: "Times New Roman", Times, serif;
+     text-decoration: underline;
+}
+h2{
+    font-family: "Times New Roman", Times, serif;
+     text-decoration: underline;
+}
+
+p{
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
+
+.upload-label{
+    display: inline-block;
+    padding: 12px 30px;
+    background: grey;
+    color: #fff;
+    font-size: 1em;
+    transition: all .4s;
+    cursor: pointer;
+}
+
+.upload-label:hover{
+    background: #34495E;
+    color: #39D2B4;
+}
+button{
+    padding: 12px 30px;
+    background: grey;
+    color: #fff;
+    font-size: 1em;
+    transition: all .4s;
+    cursor: pointer;
+}
+button:hover{
+    background: #34495E;
+    color: #39D2B4;
+}
+
+
