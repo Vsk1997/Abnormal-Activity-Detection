@@ -1,4 +1,4 @@
-# Deep-Surveillance
+# Abnormal Activity Detection
 
 Surveillance systems, mainly composed of cameras, are today widespread in both indoor and outdoor environments.
 
